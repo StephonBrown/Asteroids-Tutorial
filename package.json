@@ -1,0 +1,18 @@
+{
+  "name": "jsgame",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Practice project with Kontra Micro-Engine",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephon Brown",
+  "license": "ISC",
+  "dependencies": {
+    "kontra": "^6.3.0",
+    "npm": "^6.10.2"
+  },
+  "devDependencies": {}
+}
